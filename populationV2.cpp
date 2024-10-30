@@ -22,6 +22,7 @@ int main()
         newPop += increase;
         cout << "  new population is : " << newPop << "\n";
     }
+    return 0;
 }
 /// <summary>
 /// gets input number validation(double) within a specified range
